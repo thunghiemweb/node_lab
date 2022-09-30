@@ -16,8 +16,8 @@ git init
 git remote add origin https://github.com/thunghiemweb/node_lab.git
 
 # Tạo branch
-git checkout - b lab1
-git push--set - upstream origin lab1
+git checkout - b lab1.1
+git push--set - upstream origin lab1.1
 
 # up commit mới
 git add.
@@ -26,6 +26,6 @@ git push
 
 
 # chuyển branch
- git checkout branch1
+ git checkout ten_branch_can_den
 
 
