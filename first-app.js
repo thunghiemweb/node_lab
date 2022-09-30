@@ -1,7 +1,7 @@
 console.log('hello from Node.js');
 
 
-// Tạo ra file hello.txt trong file có nội dung hello from Node.js
+// Tạo ra file hello.txt trong file có nội dung 'hello from Node.js'
 // file có đường dẫn cùng với file first-app.js
 
 const fs = require('fs');
@@ -18,17 +18,20 @@ fs.writeFileSync('hello.txt', 'hello from Node.js');
 // Đặt tên bài lab ở Github theo quy định sau: LAB+number hoặc ASM+number. Ví dụ: LAB01, ASM1
 
 // Khởi tạo
-// git init
-// git remote add origin https://github.com/thunghiemweb/nodejs_lab_1.git
+git init
+git remote add origin https://github.com/thunghiemweb/node_lab.git
 
 // Tạo branch
-// git checkout - b tenbranch
-// git push--set - upstream origin tenbranch
+git checkout - b lab1
+git push--set - upstream origin lab1
 
-// update branch
-// git checkout tenbranchmoi
-// git add .
-// git commit -m 'ghi chú'
-// git push
+// up commit mới
+git add.
+git commit - m 'ghi chú'
+git push
+
+
+// chuyển branch
+ git checkout branch1
 
 
