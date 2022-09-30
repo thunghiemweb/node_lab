@@ -1,3 +1,4 @@
+// Lab 1.1: Cài đặt Node.js và tạo ứng dụng Node.js đầu tiên
 console.log('hello from Node.js');
 
 
