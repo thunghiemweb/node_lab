@@ -12,16 +12,10 @@ const server = http.createServer((req, res) => {
         res.write('<title>Enter Message</title>')
         res.write('</head>')
         res.write('<body>')
-        res.write('<form>')
-
-
         // form sẽ gửi dữ liệu đến địa chỉ trong action
         res.write('<form action="/message" method="POST">')
         res.write('<input type="text" name="message">');
         res.write('<button type="submit"> send    </button>')
-
-        res.write('</form>')
-
         res.write('</body>')
         res.write('</html>')
         return res.end();
