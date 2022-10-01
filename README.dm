@@ -9,16 +9,11 @@ npm init
 npm start
 npm run start-server
 
-cài đặt nodemon
+4. cài đặt nodemon
 npm install nodemon@1.18.3
 
-sửa lệnh start thành để mỗi khi save sẽ được thực thi luôn
+5. sửa lệnh start thành để mỗi khi save sẽ được thực thi luôn
 "start":"nodemon app.js",
-
-
-
-
-
 
 
 
