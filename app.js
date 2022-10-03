@@ -1,40 +1,20 @@
-// Lab 2.6: Giới hạn việc thực thi Middleware đối với Post Requests
-// Thay đổi middleware ứng với http://localhost:3000/product để chỉ nhận post request
-
-const http = require('http');
+// Lab 2.7: Sử dụng Express Router
+// Cài đặt Express Router và chuyển các xử lý ở app.js về các file Router tương ứng.
 
 const express = require('express');
-
 const app = express();
+
+const adminRoutes = require('./routes/admin')
+const shopRoutes = require("./routes/shop")
 
 const bodyParser = require('body-parser');
 
-app.use(bodyParser.urlencoded());
+app.use(bodyParser.urlencoded({ extended: false }));
 
-// Chạy nếu nhập đường dẫn http://localhost:3000/add-product
-app.use('/add-product', (req, res, next) => {
-    console.log("In another Middleware");
-    res.send('<form action="/product" method="POST"><input type="text" name="title"><button type="submit">add</button></form>');
+app.use(adminRoutes);
+app.use(shopRoutes);
 
-});
-
-
-app.post('/product', (req, res, next) => {
-    console.log(req.body);
-    res.redirect('/');
-})
-
-
-app.use('/', (req, res, next) => {
-    console.log("In another Middleware");
-    res.send('<h1>Hello form Exress.js</h1>');
-
-});
-
-
-const server = http.createServer(app);
-
-server.listen(3000);
+app.listen(3000);
 
 
 
