@@ -1,5 +1,5 @@
-Lab 2.11: Cung cấp các trang HTML
-Sử dụng path để lấy đường dẫn file html và trả về client (thay về trả trực tiếp từ string)
+Lab 2.12: Trả lại trang 404
+Tương tự như trên áp dụng cho trang 404 ở app.js.
 
 
 
