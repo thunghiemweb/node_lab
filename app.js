@@ -1,5 +1,5 @@
-// Lab 2.8: Thêm trang xử lý lỗi 404
-// Thêm middleware ở app.js và bắt những đường dẫn mà chưa được định nghĩa rồi trả về một trang với nội dung: "Page not found".
+// Lab 2.9: Phân luồng đường dẫn
+// cài đặt sao cho Route admin.js sẽ được nối thêm thành http://localhost:3000/admin/.... thay vì http://localhost:3000/....
 
 const express = require('express');
 const app = express();
@@ -12,7 +12,7 @@ const bodyParser = require('body-parser');
 
 app.use(bodyParser.urlencoded({ extended: false }));
 
-app.use(adminRoutes);
+app.use('/admin', adminRoutes);
 
 app.use(shopRoutes);
 
