@@ -1,5 +1,3 @@
-// Lab 2.9: Phân luồng đường dẫn
-// cài đặt sao cho Route admin.js sẽ được nối thêm thành http://localhost:3000/admin/.... thay vì http://localhost:3000/....
 
 const express = require('express');
 const app = express();

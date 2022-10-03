@@ -1,3 +1,11 @@
+Lab 2.10: Tạo trang HTML
+Tạo 2 trang HTML giống nhau phần menu. Trang add-product.html là form submit sản phẩm (bao gồm thông tin title) và shop.html là danh sách sản phẩm.
+
+
+
+
+
+
 
 1. Khởi tạo
 npm init 
