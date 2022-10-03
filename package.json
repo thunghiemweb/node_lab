@@ -1,0 +1,12 @@
+{
+  "name": "lap2.3",
+  "version": "1.0.0",
+  "description": "1. Khởi tạo\r npm init",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
