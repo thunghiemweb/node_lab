@@ -1,5 +1,5 @@
-Lab 2.14: Cung cấp tệp tĩnh
-Dẫn link tương đối các file css bằng cách đưa vào folder public/css.
+Lab 3.1: Chia sẻ dữ liệu giữa các Requests, User
+Tạo object products và chia sẻ giữa trang admin, shop.
 
 
 
