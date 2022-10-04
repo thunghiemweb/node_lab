@@ -1,4 +1,4 @@
-Lab 3.5: Thêm bố cục
+Lab 3.6: Hoàn thiện mẫu Pug
 
 
 
