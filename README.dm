@@ -1,5 +1,5 @@
-Lab 3.1: Chia sẻ dữ liệu giữa các Requests, User
-Tạo object products và chia sẻ giữa trang admin, shop.
+Lab 3.2: Cài đặt & triển khai Pug
+Cài đặt Pug template engine và tạo file shop.pug, chuyển đổi code từ file shop.html qua. Cấu hình để ứng dụng hoạt động với shop.pug.
 
 
 
@@ -26,6 +26,9 @@ npm install --save express
 
 7. cài đặt 
 npm install --save body-parser
+
+8. Cài đặt các trình tạo mẫu
+npm install --save ejs pug express-handlebars
 
 
 

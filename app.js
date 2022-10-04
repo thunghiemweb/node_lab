@@ -5,6 +5,15 @@ const bodyParser = require('body-parser');
 
 const app = express();
 
+
+// báo cho express ta muốn biên dịch teamplate động với công cụ pug
+app.set('view engine', 'pug');
+app.set('views', 'views');
+
+
+
+
+
 const adminData = require('./routes/admin');
 const shopRoutes = require('./routes/shop');
 
