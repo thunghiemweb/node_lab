@@ -1,4 +1,5 @@
-Lab 3.8: Thêm bố cục vào Handlebars
+Lab 3.9: Làm việc với EJS
+
 
 
 
