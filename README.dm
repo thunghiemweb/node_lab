@@ -1,4 +1,4 @@
-Lab 3.6: Hoàn thiện mẫu Pug
+Lab 3.7: Chuyển đổi ứng dụng sang Handlebars
 
 
 
