@@ -1,4 +1,4 @@
-Lab 3.7: Chuyển đổi ứng dụng sang Handlebars
+Lab 3.8: Thêm bố cục vào Handlebars
 
 
 
