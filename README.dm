@@ -1,4 +1,5 @@
-Lab 3.10: Bố cục với Partials
+Lab 4.1: Thêm Controller
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602948#overview
 
 
 
