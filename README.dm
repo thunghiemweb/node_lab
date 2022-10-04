@@ -1,4 +1,4 @@
-Lab 3.3: Xuất nội dung động
+Lab 3.4: Chuyển đổi tệp HTML sang Pug
 
 
 
