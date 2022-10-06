@@ -1,5 +1,8 @@
-Lab 4.4: Lưu trữ dữ liệu trong tệp thông qua model
-https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602954#overview
+Lab 4.5: Tìm nạp dữ liệu từ các tệp thông qua model
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602956#overview
+
+
+
 
 
 1. Khởi tạo
