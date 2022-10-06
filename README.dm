@@ -1,7 +1,48 @@
 Lab 4.7: Thêm ID sản phẩm vào đường dẫn
 https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738854#overview
 
+Lab 4.8: Trích xuất các thông số động
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738862#overview
 
+Lab 4.9: Tải dữ liệu chi tiết sản phẩm
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738868#overview
+
+Lab 4.10: Hiển thị trang: Chi tiết Sản phẩm
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738876#overview
+
+Lab 4.11: Truyền dữ liệu với POST Requests
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738882#overview
+
+Lab 4.12: Thêm model giỏ hàng
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738896#overview
+
+
+Lab 4.13: Sử dụng tham số truy vấn
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738900#overview
+
+Lab 4.14: Điền trước Dữ liệu vào Trang Chỉnh sửa Sản phẩm
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738904#overview
+
+Lab 4.15: Liên kết đến Trang chỉnh sửa
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738906#overview
+
+Lab 4.16: Chỉnh sửa dữ liệu sản phẩm
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738910#overview
+
+Lab 4.17: Thêm chức năng xóa sản phẩm
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738912#overview
+
+Lab 4.18: Xóa các mục trong giỏ hàng
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738914#overview
+
+Lab 4.19: Hiển thị các mặt hàng trong giỏ hàng trên trang Giỏ hàng
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738916#overview
+
+Lab 4.20: Xóa các mục trong Giỏ hàng
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738918#overview
+
+Lab 4.21: Sửa lỗi Xóa sản phẩm
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738920#overview
 
 
 
