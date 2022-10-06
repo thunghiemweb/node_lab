@@ -1,7 +1,5 @@
-Lab 4.1: Thêm Controller
-https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602948#overview
-
-
+Lab 4.2: Hoàn thiện Controller
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602950#overview
 
 
 
