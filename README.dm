@@ -1,6 +1,5 @@
-Lab 4.3: Thêm model (sản phẩm - produce)
-https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602952#overview
-
+Lab 4.4: Lưu trữ dữ liệu trong tệp thông qua model
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602954#overview
 
 
 1. Khởi tạo
