@@ -1,5 +1,5 @@
-Lab 4.5: Tìm nạp dữ liệu từ các tệp thông qua model
-https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602956#overview
+Lab 4.6: Cấu trúc lại code lưu trữ tệp
+https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11602958#overview
 
 
 
