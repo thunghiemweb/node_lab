@@ -4,7 +4,7 @@ https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738854#
 Lab 4.8: Trích xuất các thông số động
 https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738862#overview
 
-Lab 4.9: Tải dữ liệu chi tiết sản phẩm
+#Lab 4.9: Tải dữ liệu chi tiết sản phẩm
 https://funix.udemy.com/course/nodejs-the-complete-guide/learn/lecture/11738868#overview
 
 Lab 4.10: Hiển thị trang: Chi tiết Sản phẩm
